@@ -31,7 +31,6 @@
     "transform"
   ],
   "dependencies": {
-    "flat": "^4.0.0",
     "js-yaml": "^3.10.0"
   },
   "devDependencies": {
